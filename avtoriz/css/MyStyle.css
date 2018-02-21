@@ -1,0 +1,15 @@
+#block1 {
+float: left;
+display: block;
+width: 30%;
+*border: 1px solid blue;
+margin-left: 15%;
+}
+
+#block2 {
+float: left;
+display: block;
+width: 50%;
+*border: 1px solid blue;
+*margin-right:  5%;
+}
